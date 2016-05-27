@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center><a href="sif.uin-suska.ac.id"> sistem informasi</a>,<a href="uin-suska.ac.id"> sistem informasi</a></center>
+<center><a href="sif.uin-suska.ac.id"> sistem informasi</a>,<a href="uin-suska.ac.id"> uin suska</a></center>
 
 
 
