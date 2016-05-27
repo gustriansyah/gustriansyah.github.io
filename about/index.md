@@ -13,7 +13,24 @@ date: 2016-03-21
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/htdocs/img/UIN-Riau.png
-    https://cloud.githubusercontent.com/htdocs/img/fst.png
+<html>
+	<head>
+	       <title> Insert Gambar</title>
+	</head>
+	<body>
+	      <img src="./UIN-Riau.png"></br>
+	      <b> Penguins</b>
+	</body>
+</html>
+
+<html>
+	<head>
+	       <title> Insert Gambar</title>
+	</head>
+	<body>
+	      <img src="./fst.png"></br>
+	      <b> Penguins</b>
+	</body>
+</html>
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
