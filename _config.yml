@@ -1,7 +1,7 @@
 # Site
 title:              DENY GUSTRIANSYAH
-bio:                'Saya kuliah di Sistem Informasi UIN SUSKA Riau. Jika anda belum mengetahui Tentang UIN Suska Silahkan mengunjungi link yang berada pada menu <a href="http://gustriansyah.github.io/about/"> About</a>. Terimakasih :) '
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Saya kuliah di Sistem Informasi UIN SUSKA Riau. Jika anda belum mengetahui Tentang UIN Suska Silahkan mengunjungi link yang berada pada menu <a href="http://gustriansyah.github.io/about/"> About</a>. Saya Lahir di Tembilahan pada Tanggal 28 Agustus 1995 dan sekarang saya berumur 21 tahun. Saya Masuk kuliah pada tahun 2013 dan pada saat ini saya sudah semester 6. Terimakasih :) '
+description:        
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
