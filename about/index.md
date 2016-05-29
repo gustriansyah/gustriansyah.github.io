@@ -13,24 +13,8 @@ date: 2016-03-21
 ## Preview
 
 {% capture images %}
-<html>
-	<head>
-	       <title> Insert Gambar</title>
-	</head>
-	<body>
-	      <img src="./UIN-Riau.png"></br>
-	      <b> Penguins</b>
-	</body>
-</html>
 
-<html>
-	<head>
-	       <title> Insert Gambar</title>
-	</head>
-	<body>
-	      <img src="./fst.png"></br>
-	      <b> Penguins</b>
-	</body>
-</html>
+	      asset/img/fst.png
+	      asset/img/UIN-Riau.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
